@@ -1,0 +1,97 @@
+[
+{
+        "cedula_alumno": "1718552068",
+	"nombre": "Noelia",
+	"apellido_Paterno": "Pozo",
+        "apellido_Materno": "Lopez",
+        "edad": "4",
+        "domicilio": "Calle Tulcan",
+        "telefono": "0996854789",
+        "sexo": "femenino",
+        "fecha_Nac": "2016-07-28",
+        "tipo_sangre": "O_positivo"
+    },
+
+
+{
+	"cedula_alumno": "1718552058",
+        "nombre": "Katerine",
+	"apellido_Paterno": "Lopez",
+        "apellido_Materno": "Lopez",
+        "edad": "5",
+        "domicilio": "Calle Quito",
+        "telefono": "0996854789",
+        "sexo": "femenino",
+        "fecha_Nac": "2016-07-28",
+        "tipo_sangre": "O_positivo"
+    },
+
+{
+	"cedula_alumno": "1718552085",
+        "nombre": "Jonathan",
+	"apellido_Paterno": "Ortega",
+        "apellido_Materno": "Lopez",
+        "edad": "4",
+        "domicilio": "Calle Tulcan",
+        "telefono": "0996854789",
+        "sexo": "masculino",
+        "fecha_Nac": "2016-07-28",
+        "tipo_sangre": "O_positivo"
+    },
+
+
+{
+	"cedula_alumno": "1718552079",
+        "nombre": "Jose",
+	"apellido_Paterno": "Bravo",
+        "apellido_Materno": "Lopez",
+        "edad": "4",
+        "domicilio": "Calle Ambato",
+        "telefono": "0996854789",
+        "sexo": "masculino",
+        "fecha_Nac": "2016-07-28",
+        "tipo_sangre": "O_positivo"
+    },
+
+{
+	"cedula_alumno": "1718552096",
+        "nombre": "Fernanda",
+	"apellido_Paterno": "Galarraga",
+        "apellido_Materno": "Lopez",
+        "edad": "4",
+        "domicilio": "Calle Tulcan",
+        "telefono": "0996854789",
+        "sexo": "femenino",
+        "fecha_Nac": "2016-07-28",
+        "tipo_sangre": "O_positivo"
+    },
+
+
+{
+	"cedula_alumno": "1718552035",
+        "nombre": "Luis",
+	"apellido_Paterno": "Cordova",
+        "apellido_Materno": "Lopez",
+        "edad": "3",
+        "domicilio": "Calle Tulcan",
+        "telefono": "0996854789",
+        "sexo": "Masculino",
+        "fecha_Nac": "2016-07-28",
+        "tipo_sangre": "O_positivo"
+    },
+
+
+{
+	"cedula_alumno": "1718552051",
+        "nombre": "Jasmin",
+	"apellido_Paterno": "Anchundia",
+        "apellido_Materno": "Lopez",
+        "edad": "3",
+        "domicilio": "Calle Tulcan",
+        "telefono": "0996854789",
+        "sexo": "femenino",
+        "fecha_Nac": "2016-07-28",
+        "tipo_sangre": "O_positivo"
+    }
+
+]

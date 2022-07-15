@@ -1,0 +1,57 @@
+[
+{
+        "promedio": "18",
+	"clave_materia": "M002",
+        "clave_docente": "D003",
+        "cedula_alumno": "1718552069"
+        
+    },
+
+{
+        "promedio": "18",
+	"clave_materia": "M002",
+        "clave_docente": "D003",
+        "cedula_alumno": "1718552079"
+        
+    },
+
+{
+        "promedio": "18",
+	"clave_materia": "M002",
+        "clave_docente": "D003",
+        "cedula_alumno": "1578456987"
+        
+    },
+
+{
+        "promedio": "18",
+	"clave_materia": "M002",
+        "clave_docente": "D003",
+        "cedula_alumno": "1875648987"
+        
+    },
+
+{
+        "promedio": "18",
+	"clave_materia": "M002",
+        "clave_docente": "D003",
+        "cedula_alumno": "1756897452"
+        
+    },
+
+{
+        "promedio": "18",
+	"clave_materia": "M002",
+        "clave_docente": "D003",
+        "cedula_alumno": "1758795231"
+        
+    },
+
+{
+        "promedio": "18",
+	"clave_materia": "M002",
+        "clave_docente": "D003",
+        "cedula_alumno": "1718456879"
+        
+    }
+]

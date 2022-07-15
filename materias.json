@@ -1,0 +1,27 @@
+[
+{
+        "nombre": "Colores",
+	"clave_materia": "M001",
+        "clave_docente": "D001",
+        "horas_semana": "3"
+        
+    },
+
+
+{
+        "nombre": "Figuras",
+	"clave_materia": "M002",
+        "clave_docente": "D002",
+        "horas_semana": "3"
+        
+    },
+
+
+{
+        "nombre": "Animales",
+	"clave_materia": "M003",
+        "clave_docente": "D003",
+        "horas_semana": "3"
+        
+    }
+]

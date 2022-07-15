@@ -1,0 +1,25 @@
+[
+{
+	"clave_materia": "M001",
+        "clave_docente": "D001",
+        "nombre": "Jonathan Fuel",
+	"edad": "35"
+        
+    },
+
+{
+	"clave_materia": "M002",
+        "clave_docente": "D002",
+        "nombre": "Jonathan Lopez",
+	"edad": "35"
+        
+    },
+
+{
+	"clave_materia": "M003",
+        "clave_docente": "D003",
+        "nombre": "Jonathan Ortega",
+	"edad": "35"
+        
+    }
+]

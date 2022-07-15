@@ -1,0 +1,46 @@
+[
+{
+	"clave_materia": "M003",
+        "clave_docente": "D003",
+        "nombre": "Jonathan Ortega",
+	"dia": "lunes",
+	"hora": "08:00"
+        
+    },
+
+{
+	"clave_materia": "M003",
+        "clave_docente": "D003",
+	"dia": "miercoles",
+	"hora": "08:00"
+
+        
+    },
+
+{
+	"clave_materia": "M002",
+        "clave_docente": "D002",
+	"dia": "lunes",
+	"hora": "08:00"
+
+        
+    },
+
+{
+	"clave_materia": "M003",
+        "clave_docente": "D003",
+	"dia": "lunes",
+	"hora": "08:00"
+
+        
+    },
+
+{
+	"clave_materia": "M003",
+        "clave_docente": "D003",
+	"dia": "lunes",
+	"hora": "08:00"
+
+        
+    }
+]
